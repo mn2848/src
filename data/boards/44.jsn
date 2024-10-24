@@ -1,1 +1,0 @@
-{ "board":"PRO2ESP32DRV8825","maxstepmode":32,"stepmode":1,"enpin":14,"steppin":33,"dirpin":32,"temppin":13,"hpswpin":-1,"inledpin":-1,"outledpin":-1,"pb1pin":-1,"pb2pin":-1,"irpin":-1,"brdnum":44,"stepsrev":-1,"fixedsmode":-1,"brdpins":[25,26,27,-1],"msdelay":4000 }

@@ -1,1 +1,0 @@
-{ "board":"PRO2ESP32LOLINS2MINI","maxstepmode":32,"stepmode":1,"enpin":7,"steppin":11,"dirpin":13,"temppin":-1,"hpswpin":-1,"inledpin":-1,"outledpin":-1,"pb1pin":-1,"pb2pin":-1,"irpin":-1,"brdnum":60,"stepsrev":2000,"fixedsmode":1,"brdpins":[6,5,3,-1],"msdelay":4000 }

@@ -1,1 +1,0 @@
-{ "board":"PRO2ESP32L298N","maxstepmode":2,"stepmode":1,"enpin":7,"steppin":13,"dirpin":11,"temppin":-1,"hpswpin":-1,"inledpin":-1,"outledpin":-1,"pb1pin":-1,"pb2pin":-1,"irpin":-1,"brdnum":46,"stepsrev":2048,"fixedsmode":-1,"brdpins":[-1,-1,-1,-1],"msdelay":8000 }
