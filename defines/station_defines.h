@@ -29,7 +29,7 @@ char myPASSWORD_1[64] = "BS32-85591V-lmn";
 // values below will need changing
 
 // Static TCP/IP address for controller as STATION
-IPAddress station_ip(192, 168, 178, 30); 
+IPAddress station_ip(192, 168, 178, 32); 
 // Your local network gateway - normally address of your router
 IPAddress station_gateway(192, 168, 178, 1); 
 IPAddress station_subnet(255, 255, 255, 0);  
